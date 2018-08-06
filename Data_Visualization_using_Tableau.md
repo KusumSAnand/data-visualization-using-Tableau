@@ -34,7 +34,7 @@ The flight performance pattern has been visualized with five story points.The de
 
 ## Feedback
 
-Following are the set of feedbacks from Emma Harvey -
+Following are the set of feedbacks. Changes have been incorporated into the final Story based on the relevant points raised.
 
 1)    On every page there is the table at the bottom shaded in different greens. I don’t think this table is necessary. Maybe even a much smaller table, listing the data in order, and shaded the same orange colours that correspond to their colours in the graph. But even a simple ordered list would do.  
 
@@ -60,10 +60,6 @@ Following are the set of feedbacks from Emma Harvey -
 
 
 
-
-
-Feedback link
-https://udacitydatascience.slack.com/archives/C72AP9J3Y/p1531312327000375?thread_ts=1531292934.000120&cid=C72AP9J3Y
 
 ## Resources
 
