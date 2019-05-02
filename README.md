@@ -20,7 +20,8 @@ https://public.tableau.com/profile/kusum8304#!/vizhome/UnitedStatesAirlinePerfor
 
 ## File summary
 
-- Data_Visualization_using_Tableau-final.ipynb
+Data_Visualization_using_Tableau-final.ipynb
+
 The file captures a brief  on the flight dataset analysis and its narration as a tableay story, the design aspects of the story points and lists the peer feedback incorporated in to the final story.
 
 
