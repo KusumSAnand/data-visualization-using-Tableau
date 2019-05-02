@@ -1,5 +1,5 @@
 
-#  Visualizing Tableau Story - Flight performance pattern
+#  Tableau Story - Visualize flight performance pattern
 
 ## Project Overview
 The project analyses the flight performance pattern for the period period Jan 2010 - Dec 2017. The result of the analysis is narrated as a Tableau Story.
